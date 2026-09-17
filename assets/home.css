@@ -222,28 +222,3 @@
   .home-ai-between{padding:5px 0!important}
   .home-ai-between + #games.catalog{padding-top:5px!important}
 }
-
-/* Unblocked Games 2026 premium homepage */
-.hero .search-row .stats{
-  background:linear-gradient(180deg,rgba(16,24,43,.96),rgba(10,16,30,.96));
-  border-color:rgba(109,140,255,.20);
-  box-shadow:inset 0 1px 0 rgba(255,255,255,.035);
-}
-.hero .search-row .stats strong{color:#fff}
-.ai-finder{
-  background:
-    radial-gradient(circle at 100% 0,rgba(154,103,255,.13),transparent 35%),
-    linear-gradient(135deg,rgba(13,23,43,.98),rgba(15,19,37,.98));
-  border-color:rgba(109,140,255,.26)!important;
-  box-shadow:0 20px 50px rgba(0,0,0,.22),inset 0 1px 0 rgba(255,255,255,.03)!important;
-}
-.ai-finder .kicker{color:#ffd166}
-.ai-input-row input{
-  background:#090f1d;
-  border-color:rgba(109,140,255,.22);
-}
-.ai-input-row input:focus{border-color:#6d8cff;box-shadow:0 0 0 3px rgba(109,140,255,.10)}
-.ai-suggestions button{background:rgba(109,140,255,.07);color:#bdc8df;border-color:rgba(109,140,255,.16)}
-.ai-suggestions button:hover{color:#fff!important;border-color:rgba(109,140,255,.48)!important;background:rgba(109,140,255,.14)!important}
-.hero-popular{background:linear-gradient(145deg,#0e1628,#0a1020);border-color:rgba(109,140,255,.20)}
-.hero-popular-head a{background:rgba(109,140,255,.12);color:#9eb0ff}
