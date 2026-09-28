@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://unblocked-2026.github.io/sitemap.xml
+Sitemap: https://unblocked-2028.github.io/sitemap.xml
